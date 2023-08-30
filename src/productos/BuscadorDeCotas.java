@@ -23,7 +23,6 @@ public class BuscadorDeCotas {
 	
 	public String valorMax(Collection<Producto> productos) {
 		
-		System.out.println(productos.toString());
 		Producto productoMax = productos.iterator().next();
 		
 		for (Producto p1 : productos) {

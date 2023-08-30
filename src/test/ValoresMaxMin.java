@@ -30,8 +30,6 @@ class ValoresMaxMin {
 		Producto barata = new Bebida("Bebiba más barata",2.00,1.5);
 		Producto cara = new Bebida("Bebiba más cara",999.00,1.5);
 		
-		
-		System.out.println("hOLA");
 		productos.add(cocaZero);
 		productos.add(coca);
 		productos.add(shampoSedal);

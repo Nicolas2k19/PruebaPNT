@@ -22,7 +22,7 @@ public class Main {
 		Producto cocaZero = new Bebida("Coca-Cola Zero",20.00,1.5);
 		Producto coca = new Bebida("Coca-Cola",18.00,1.5);
 		Producto shampoSedal = new Shampoo("Shampoo Sedal",19.00,500.00);
-		Producto frutillas = new Bebida("Frutillas",64.00,1.5);
+		Producto frutillas = new Fruta("Frutillas",64.00,"kilo");
 		
 		productos.add(cocaZero);
 		productos.add(coca);
